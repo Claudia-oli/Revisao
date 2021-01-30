@@ -1,0 +1,16 @@
+C:\Users\Claudia\Revisão\bin\Debug\net5.0\Revisão.exe
+C:\Users\Claudia\Revisão\bin\Debug\net5.0\Revisão.deps.json
+C:\Users\Claudia\Revisão\bin\Debug\net5.0\Revisão.runtimeconfig.json
+C:\Users\Claudia\Revisão\bin\Debug\net5.0\Revisão.runtimeconfig.dev.json
+C:\Users\Claudia\Revisão\bin\Debug\net5.0\Revisão.dll
+C:\Users\Claudia\Revisão\bin\Debug\net5.0\ref\Revisão.dll
+C:\Users\Claudia\Revisão\bin\Debug\net5.0\Revisão.pdb
+C:\Users\Claudia\Revisão\obj\Debug\net5.0\Revisão.csprojAssemblyReference.cache
+C:\Users\Claudia\Revisão\obj\Debug\net5.0\Revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfoInputs.cache
+C:\Users\Claudia\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfo.cs
+C:\Users\Claudia\Revisão\obj\Debug\net5.0\Revisão.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Revisão\obj\Debug\net5.0\Revisão.dll
+C:\Users\Claudia\Revisão\obj\Debug\net5.0\ref\Revisão.dll
+C:\Users\Claudia\Revisão\obj\Debug\net5.0\Revisão.pdb
+C:\Users\Claudia\Revisão\obj\Debug\net5.0\Revisão.genruntimeconfig.cache
